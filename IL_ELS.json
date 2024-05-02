@@ -1,4 +1,4 @@
 {
   "version": 1.1,
-  "changelog": "  - Aggiunta la possibilità di controllare il veicolo mentre si ha la UI aperta\n  - Aggiunta la possibilità di chiudere l'interfaccia con 'Backspace' e 'Tasto destro'",
+  "changelog": "- Aggiunta la possibilità di controllare il veicolo mentre si ha la UI aperta\n- Aggiunta la possibilità di chiudere l'interfaccia con 'Backspace' e 'Tasto destro'",
 }
