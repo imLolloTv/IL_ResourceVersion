@@ -1,4 +1,4 @@
 {
-  "version": "1.1.1",
-  "changelog": "- Aggiornato il modo in cui viene aggiornato lo statebag dello stato della UI\n- Inserito un messaggio di avviso in caso di assenza di un file VCF",
+  "version": "1.1.2",
+  "changelog": "- Inserita la possibilità di rendere la UI sempre visibile tramite un valore nel config",
 }
