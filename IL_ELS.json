@@ -1,4 +1,4 @@
 {
-  "version": "1.1.4",
-  "changelog": "- Inserita la possibilità di modificare il numero di iterazione del loop per le luci ambientali\n- Inserita la possibilità di mettere un pattern diverso al segnalatore per ogni veicolo",
+  "version": "1.1.5",
+  "changelog": "- Fixato il sync della UI tra i giocatori nel veicolo",
 }
