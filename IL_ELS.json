@@ -1,4 +1,4 @@
 {
-  "version": "1.1.5",
-  "changelog": "- Fixato il sync della UI tra i giocatori nel veicolo",
+  "version": "1.1.6",
+  "changelog": "- Modificato il sistema di creazione delle luci ambientali \n- Aggiunta la possibilità di rimpiazzare i pattern",
 }
