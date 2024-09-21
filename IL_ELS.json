@@ -1,4 +1,4 @@
 {
-  "version": "1.1.6",
-  "changelog": "- Modificato il sistema di creazione delle luci ambientali \n- Aggiunta la possibilità di rimpiazzare i pattern",
+  "version": "1.1.7",
+  "changelog": "- Fixato il clacson che continuava a suonare anche se rilasciato",
 }
