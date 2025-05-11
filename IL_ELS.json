@@ -1,4 +1,4 @@
 {
-  "version": "1.1.7",
-  "changelog": "- Fixato il clacson che continuava a suonare anche se rilasciato",
+  "version": "1.1.8",
+  "changelog": "- Inserita la possibilità di inviare un dato al JS in base al modello del veicolo (configurabile dal config)",
 }
