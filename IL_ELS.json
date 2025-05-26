@@ -1,4 +1,4 @@
 {
-  "version": "1.1.8",
-  "changelog": "- Inserita la possibilità di inviare un dato al JS in base al modello del veicolo (configurabile dal config)",
+  "version": "1.1.9",
+  "changelog": "- Inserita la possibilità di attivare i lampeggianti di GTA su tutti i veicoli ELS senza configurarli manualmente",
 }
