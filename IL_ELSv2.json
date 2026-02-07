@@ -1,4 +1,4 @@
 {
-  "version": "2.0.1",
-  "changelog": "- Inserito segnale acustico ai tasti del pannello",
+  "version": "2.1",
+  "changelog": "- Refactor client/server per usare i Network ID dei veicoli (VehToNet/NetToVeh)\n- Migliorata la sincronizzazione di sirene, clacson e pattern luci\n- Risolti problemi di desync causati da Entity ID locali\n- Aggiornata la UI e la configurazione IL_ELS\n- Migliorata la gestione dello stato ELS tra i client"
 }

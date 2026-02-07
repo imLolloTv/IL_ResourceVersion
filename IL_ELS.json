@@ -1,4 +1,4 @@
 {
   "version": "1.2",
-  "changelog": "- Risolti problemi di sync generali (ora viene usato il NetworkID dei veicoli per assicusarsi il funzionamento corretto)",
+  "changelog": "- Risolti problemi di sync generali (ora viene usato il NetworkID dei veicoli per assicusarsi il funzionamento corretto)"
 }
