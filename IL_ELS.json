@@ -1,4 +1,4 @@
 {
-  "version": "1.2",
-  "changelog": "- Risolti problemi di sync generali (ora viene usato il NetworkID dei veicoli per assicusarsi il funzionamento corretto)"
+  "version": "1.2.1",
+  "changelog": "- Fixato lo spam in console dovuto a OneSync \n- Fix Vari"
 }
